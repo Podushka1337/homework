@@ -1,0 +1,11 @@
+def rabbits():
+    n, m = map(int, input().split())
+    return (m - 1) // n + 1
+
+def road():
+    v = int(input())
+    t = int(input())
+    return (v * t) % 109
+
+#print(rabbits())
+print(road())
