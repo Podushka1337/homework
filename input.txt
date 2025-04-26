@@ -1,2 +1,0 @@
-abc123 def45 ghi 678
-hello,world,this,is,a,test,example.
